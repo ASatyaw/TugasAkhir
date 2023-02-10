@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">SurveiUP</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_survey">Survey</string>
+    <string name="logoimage">Logo</string>
+    <string name="version_app">Version 1.0</string>
+    <string name="hint_username">Nim</string>
+    <string name="hint_password">Kata sandi</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar Diri</string>
+    <string name="required">Required</string>
+    <string name="fullname">Nama lengkap</string>
+    <string name="email">Email</string>
+    <string name="study">Program Studi</string>
+    <string name="province">Provinsi</string>
+    <string name="born">Tahun lahir</string>
+    <string name="department">Angkatan</string>
+    <string name="something_error">Ada masalah</string>
+    <string name="refresh">Refresh</string>
+    <string name="mysurvey">My Survey</string>
+    <string name="create">Create</string>
+    <string name="nim">Nim</string>
+    <string name="no_connection">No Connection</string>
+    <string name="invalid_email_addr">Invalid email address</string>
+    <string name="submit">Submit</string>
+    <string name="logout">Logout</string>
+    <string name="take_survey">Take survey</string>
+    <string name="hint_name_survey">Name Survey</string>
+    <string name="hint_descreption">Descreption Survey</string>
+    <string name="hint_reward_koin">Insert reward koin</string>
+    <string name="hint_expired_date">Expired Date</string>
+    <string name="are_you_sure">Apakah kamu ingin keluar?</string>
+    <string name="yes">Yes</string>
+    <string name="edit_survey">Edit Survey</string>
+    <string name="press_again_exit">Press again exit app</string>
+    <string name="question">Question</string>
+    <string name="empty">Empty</string>
+    <string name="loading">Loading</string>
+    <string name="please_wait">Please wait</string>
+    <string name="question_hint">Title question</string>
+    <string name="options">Options</string>
+    <string name="option_hint">insert option</string>
+    <string name="save">Save</string>
+    <string name="hint_section">section question</string>
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="broadcast_survey">Broadcast survey</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="topup">Top up</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="choose_nominal">Choose Nominal</string>
+    <string name="write_nominal">Write nominal</string>
+    <string name="reward_koin">Reward Koin</string>
+    <string name="your_coin">Your coin</string>
+
+    <string-array name="study_programs">
+        <item>Program studi</item>
+        <item>Teknik Logistik</item>
+        <item>Teknik Mesin</item>
+        <item>Teknik Kimia</item>
+        <item>Teknik Elektro</item>
+        <item>Teknik Lingkungan</item>
+        <item>Teknik Sipil</item>
+        <item>Teknik Geofisika</item>
+        <item>Teknik Perminyakan</item>
+        <item>Teknik Geologi</item>
+        <item>Ilmu Komputer</item>
+        <item>Kimia</item>
+        <item>Komunikasi</item>
+        <item>Hubungan International</item>
+        <item>Manajemen</item>
+        <item>Ekonomi</item>
+    </string-array>
+
+    <string-array name="department_years">
+        <item>Angkatan</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+    </string-array>
+
+    <string-array name="provinces_name">
+        <item>Provinsi</item>
+        <item>Aceh</item>
+        <item>Bali</item>
+        <item>Bangka Belitung</item>
+        <item>Banten</item>
+        <item>Bengkulu</item>
+        <item>Jawa Tengah</item>
+        <item>Kalimantan Tengah</item>
+        <item>Sulawesi Tengah</item>
+        <item>Jawa timur</item>
+        <item>Kalimantan Timur</item>
+        <item>Nusa Tenggara Timur</item>
+        <item>Gorontalo</item>
+        <item>DKI Jakarta</item>
+        <item>Jambi</item>
+        <item>Lampung</item>
+        <item>Maluku</item>
+        <item>Sulawesi Utara</item>
+        <item>Sumatera Utara</item>
+        <item>Papua</item>
+        <item>Riau</item>
+        <item>Kepulauan Riau</item>
+        <item>Sulawesi Tenggara</item>
+        <item>Kalimantan Selatan</item>
+        <item>Sulawesi Selatan</item>
+        <item>Sumatera Selatan</item>
+        <item>Jawa Barat</item>
+        <item>Kalimantan Barat</item>
+        <item>Nusa tenggara Barat</item>
+        <item>Papua Barat</item>
+        <item>Sulawesi Barat</item>
+        <item>Sumatera Barat</item>
+        <item>Daerah Istimewa Yogyakarta</item>
+        <item>Kalimantan Utara</item>
+        <item>Maluku Utara</item>
+    </string-array>
+</resources>
